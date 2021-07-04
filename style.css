@@ -1,7 +1,12 @@
 .gallery img{
         width: 100%;
  }
-
+h2{
+    font-family: cursive;
+    font-size: 22px;
+    font-style: italic;
+    color: #387aA7;
+}
 h4{
     font-family: impact, fantasy;
     font-size: 20px;
